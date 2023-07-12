@@ -9,11 +9,6 @@
 - ![Redux](path/to/skill5.png)
 - ![Node js](path/to/skill5.png) 
 
-## 📫 How to reach me:
-- Email: [mariamgrigoryan99@gmail.com]
-- LinkedIn: [https://linkedin.com/in/mariam-grigoryan-b76245231/]
--  Feel free to reach out if you have any questions, suggestions, or just want to say hi!
-
 
 <!---
 mariamgri22/mariamgri22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
